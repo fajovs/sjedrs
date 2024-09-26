@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "300626943188",
+    "firebase_url": "https://sjedrs-af55e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sjedrs-af55e",
+    "storage_bucket": "sjedrs-af55e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300626943188:android:58a284959c06516fb5af41",
+        "android_client_info": {
+          "package_name": "com.example.sjedrsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHHa0-5-gKvOnjYp7hC4R672qi11MEpCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300626943188:android:e166353582babe7ab5af41",
+        "android_client_info": {
+          "package_name": "com.example.sjedrsmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHHa0-5-gKvOnjYp7hC4R672qi11MEpCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
