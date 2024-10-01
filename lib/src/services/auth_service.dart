@@ -363,8 +363,6 @@ class AuthService {
 
 
 
-
-
   Future<bool> hasAnyRequest() async {
     try {
       print('Checking if there are any requests');

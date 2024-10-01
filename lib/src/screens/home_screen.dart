@@ -158,7 +158,7 @@ class HomeScreen extends StatelessWidget {
                   children: [
                     const Center(
                       child: Text(
-                        'Welcome to SJEDRS',
+                        'Welcome to ALISTO',
                         style: TextStyle(
                           fontSize: 24,
                           fontWeight: FontWeight.bold,
